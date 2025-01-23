@@ -59,8 +59,8 @@
 ###
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Md-Golam-Nabi)](https://github.com/anuraghazra/github-readme-stats)
+| Top Languages | GitHub Stats |
+|--------------|-------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Md-Golam-Nabi)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-Md-Golam-Nabi&show_icons=true) |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-Md-Golam-Nabi&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mirza-Md-Golam-Nabi/contributions?format=svg&private=false)
