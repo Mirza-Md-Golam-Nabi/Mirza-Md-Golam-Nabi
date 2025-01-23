@@ -51,6 +51,7 @@
 
 ###
 
+<h3 align="left">Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
