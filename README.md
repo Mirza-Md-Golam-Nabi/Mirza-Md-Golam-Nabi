@@ -17,7 +17,8 @@
 📍 Badda Link Road, Gulshan, Dhaka  
 🔗 [https://shadhinbd.com](https://shadhinbd.com)  
 
-
+### Job Responsibilities
+<p>Optimized databases for performance and scalability. Integrated third-party APIs and developed REST APIs, testing with Postman. Managed data import/export via Excel, generated PDF reports and used Laravel Eloquent. Followed DRY and SOLID principles, ensured code quality with unit testing, and collaborated using Git.</p>
 
 <h3 align="left">Follow me</h3>
 <a href="https://www.youtube.com/c/@mirzamdgolamnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mirzamdgolamnabi" height="30" width="40" /></a>
