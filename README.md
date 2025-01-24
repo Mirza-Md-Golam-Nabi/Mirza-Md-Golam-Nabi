@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Md. Golam Nabi</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Profile%20views-135-gray?style=flat&labelColor=green" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirza-md-golam-nabi&label=Profile%20views&color=0e75b6&style=flat" alt="mirza-md-golam-nabi" /> </p>
 
 <h3 align="left">About</h3>
 <p>I am a Laravel developer with 5+ years of experience, specializing in secure REST API development, code optimization, and debugging. Owner of the Laravel Tips & Tricks group and page.</p>
