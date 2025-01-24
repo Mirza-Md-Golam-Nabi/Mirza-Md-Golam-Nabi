@@ -9,6 +9,16 @@
 <h3 align="left">About</h3>
 <p>I am a Laravel developer with 5+ years of experience, specializing in secure REST API development, code optimization, and debugging. Owner of the Laravel Tips & Tricks group and page.</p>
 
+<h3 align="left">Current Experience</h3>
+## Experience  
+
+### **[Shadhin Fintech Solution Ltd](https://shadhinbd.com)**  
+**BackEnd Developer**  
+📅 **17 Aug 2021 - Present**  
+📍 Badda Link Road, Gulshan, Dhaka  
+🔗 [https://shadhinbd.com](https://shadhinbd.com)  
+
+
 <h3 align="left">Follow me</h3>
 <a href="https://www.youtube.com/c/@mirzamdgolamnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mirzamdgolamnabi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/laraveltipstricks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laraveltipstricks" height="30" width="40" /></a>
