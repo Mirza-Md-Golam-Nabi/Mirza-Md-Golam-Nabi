@@ -31,6 +31,19 @@
 *Currently Reading:* ***Refactoring: Improving the Design of Existing Code*** -  
 _Martin Fowler_
 
+## Problem Solving  
+
+### beecrowd  
+🔗 [https://judge.beecrowd.com/en/profile/121187](https://judge.beecrowd.com/en/profile/121187)  
+**Solve:** **135**  
+
+### HackerRank  
+🔗 [https://www.hackerrank.com/Mirza37](https://www.hackerrank.com/Mirza37)  
+**Solve:** **11**  
+
+### UVa Online Judge  
+🔗 [https://uva.onlinejudge.org](https://uva.onlinejudge.org)  
+**Solve:** **02**  
 
 <h3 align="left">Follow me</h3>
 <a href="https://www.youtube.com/c/@mirzamdgolamnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mirzamdgolamnabi" height="30" width="40" /></a>
