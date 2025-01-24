@@ -9,7 +9,8 @@
 <h3 align="left">About</h3>
 <p>I am a Laravel developer with 5+ years of experience, specializing in secure REST API development, code optimization, and debugging. Owner of the Laravel Tips & Tricks group and page.</p>
 
-<h3 align="left">Current Experience</h3>
+### Current Experience</h3>
+
 #### **[Shadhin Fintech Solution Ltd](https://shadhinbd.com)**  
 **BackEnd Developer**  
 📅 **17 Aug 2021 - Present**  
