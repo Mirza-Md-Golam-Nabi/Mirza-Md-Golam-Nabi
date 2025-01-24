@@ -49,18 +49,13 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
-###
-
 <h3 align="left">Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
-
-
-| Top Languages | GitHub Stats |
-|--------------|-------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Md-Golam-Nabi)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-Md-Golam-Nabi&show_icons=true) |
+| Most Used Languages | GitHub Stats |
+|---------------------|-------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Md-Golam-Nabi&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-Md-Golam-Nabi&show_icons=true&theme=dark) |
 
 
