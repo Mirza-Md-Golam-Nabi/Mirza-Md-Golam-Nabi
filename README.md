@@ -20,6 +20,18 @@
 ### Job Responsibilities
 <p align="justify">Optimized databases for performance and scalability. Integrated third-party APIs and developed REST APIs, testing with Postman. Managed data import/export via Excel, generated PDF reports and used Laravel Eloquent. Followed DRY and SOLID principles, ensured code quality with unit testing, and collaborated using Git.</p>
 
+### Technical Proficiency  
+
+1. Try to follow **SOLID** principles.  
+2. Refactor and Optimize code.  
+3. 3rd party API integration e.g. **Payment Gateway, NID validation, MFS Gateway**  
+4. **Database Normalization**  
+5. Problem-solving and Debugging skills.  
+
+*Currently Reading:* ***Refactoring: Improving the Design of Existing Code*** -  
+_Martin Fowler_
+
+
 <h3 align="left">Follow me</h3>
 <a href="https://www.youtube.com/c/@mirzamdgolamnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mirzamdgolamnabi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/laraveltipstricks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laraveltipstricks" height="30" width="40" /></a>
