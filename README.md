@@ -58,4 +58,4 @@
 |---------------------|-------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Md-Golam-Nabi&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-Md-Golam-Nabi&show_icons=true&theme=dark) |
 
-
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirza-Md-Golam-Nabi&theme=dark)
