@@ -25,8 +25,8 @@
 4. **Database Normalization**  
 5. Problem-solving and Debugging skills.  
 
-*Currently Reading:* ***Refactoring: Improving the Design of Existing Code*** -  
-_Martin Fowler_
+*Currently Reading:* ***Refactoring: Improving the Design of Existing Code***  
+-- _Martin Fowler_
 
 ## Problem Solving  
 
