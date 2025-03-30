@@ -28,6 +28,12 @@
 *Currently Reading:* ***Refactoring: Improving the Design of Existing Code***  
 -- _Martin Fowler_
 
+## 3rd API Integration List
+- [PortPos](https://developer.portpos.com/documentation-v2.php)
+- [Porichoy - NID Verification](https://porichoy.gov.bd/apps/#/docs)
+- [SSLCommerz](https://developer.sslcommerz.com/doc/v4/)
+- [SopnoPay](https://sopnopay.com/developers/docs)
+
 ## Problem Solving  
 
 ### beecrowd  
